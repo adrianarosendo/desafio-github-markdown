@@ -22,6 +22,4 @@ Durante o curso, abordamos diversos conceitos e práticas essenciais, incluindo:
 - GitHub
 - Markdown
 
-## 🤔 Como Utilizar
-
 > Desenvolvido durante o curso de Git e Markdown para aprimorar habilidades em versionamento e documentação.
